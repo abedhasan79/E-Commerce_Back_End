@@ -20,12 +20,15 @@ This App is the back end for an e-commerce site. USes Express.js API to use Sequ
 ## Installation
 
 - Clone the Project.
+- Rename the .env.EXAMPLE to .env
+- Then add MySQL username, and MySQL password to an environment variable(.env) file
 - Then use npm install in terminal to install the project.
 - Then use node seeds/index.js to seed some data into the database
 
 ## Usage
 
-To run the app type npm start from the root directory
+- To run the app type npm start from the root directory
+- Use Insomnia to test routes
 
 ### Walkthrough Video
 [click here]() to see a walkthrough video of the app.
